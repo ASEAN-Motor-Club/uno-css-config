@@ -1,0 +1,16 @@
+{
+  "name": "amc-uno-css-config",
+  "version": "0.0.1",
+  "description": "Shared UnoCSS configuration for AMC projects",
+  "type": "module",
+  "main": "./index.js",
+  "exports": {
+    ".": "./index.js"
+  },
+  "files": [
+    "index.js"
+  ],
+  "peerDependencies": {
+    "unocss": ">=0.65.0"
+  }
+}

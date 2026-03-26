@@ -1,6 +1,6 @@
 {
   "name": "amc-uno-css-config",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Shared UnoCSS configuration for AMC projects",
   "type": "module",
   "main": "./index.js",

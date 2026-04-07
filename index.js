@@ -38,6 +38,15 @@ export default defineConfig({
       text: {
         DEFAULT: "var(--colors-slate-900)",
         dark: "var(--colors-slate-100)",
+        100: "var(--colors-slate-100)",
+        200: "var(--colors-slate-200)",
+        300: "var(--colors-slate-300)",
+        400: "var(--colors-slate-400)",
+        500: "var(--colors-slate-500)",
+        600: "var(--colors-slate-600)",
+        700: "var(--colors-slate-700)",
+        800: "var(--colors-slate-800)",
+        900: "var(--colors-slate-900)",
       },
       primary: {
         50: "oklch(0.965 0.017 259.43)",
